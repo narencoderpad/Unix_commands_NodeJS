@@ -51,14 +51,6 @@ npm install
 ## Project  structure
 ```sh
 .
-├── index.js
-├── package.json
-├── model
-│   └── ListModel.js
-└── Routes
-    └── ListRouter.js
-
-
 ├── files
 ├── test
 ├── checkPermission.js
