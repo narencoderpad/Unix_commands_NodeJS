@@ -57,6 +57,24 @@ npm install
 │   └── ListModel.js
 └── Routes
     └── ListRouter.js
+
+
+├── files
+├── test
+├── checkPermission.js
+├── copy.js
+├── create.js
+├── delete.js
+├── documents.txt
+├── index.js
+├── makdir.js
+├── move.js
+├── package.json
+├── read.js
+├── readDirectory.js
+├── README.md
+├── rename.js
+└── replace.js    
  
 ```
 ## How to run
